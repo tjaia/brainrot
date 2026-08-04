@@ -1,0 +1,104 @@
+{
+	"$schema": "https://raw.githubusercontent.com/martinring/tmlanguage/master/tmlanguage.json",
+	"name": "BrainRot",
+	"patterns": [
+		{
+			"include": "#keywords"
+		},
+		{
+			"include": "#integers"
+		},
+		{
+			"include": "#comments"
+		},
+		{
+			"include": "#operators"
+		},
+		{
+			"include": "#booleans"
+		},
+		{
+			"include": "#definitions"
+		},
+		{
+			"include": "#variableCalls"
+		},
+		{
+			"include": "#strings"
+		}
+	],
+	"repository": {
+		"keywords": {
+			"patterns": [
+				{
+					"name": "keyword.control.brainrot",
+					"match": "\\b(mew|ballerina|cappuccina|putthefriesinthebag|gyatt|noscreentime)\\b"
+				}
+			]
+		},
+		"integers": {
+			"patterns": [
+				{
+					"name": "constant.numeric.integer.tung",
+					"begin": "tung",
+					"end": "sahur"
+				}
+			]
+		},
+		"comments": {
+			"patterns": [
+				{
+					"name": "comment.block.tung",
+					"begin": "sybau",
+					"end": "\\s"
+				}
+			]
+		},
+		"operators": {
+			"patterns": [
+				{
+					"name": "keyword.operator.tung",
+					"match": "\\b(fanumtax|rizz|skibidirizz|skibidifanumtax|skibiditoiletrizz|skibiditoiletfanumtax|tralalero|tralala|delulu)\\b"
+				}
+			]
+		},
+		"booleans": {
+			"patterns": [
+				{
+					"name": "constant.language.boolean.brainrot",
+					"match": "\\b(alpha|beta)\\b"
+				}
+			]
+		},
+		"definitions": {
+			"patterns": [
+				{
+					"name": "storage.type.brainrot",
+					"match": "\\b(edge)\\b"
+				},
+				{
+					"name": "storage.type.function.brainrot",
+					"match": "\\b(sigma)\\b"
+				}
+			]
+		},
+		"variableCalls": {
+			"patterns": [
+				{
+					"match": "\\bohio\\b",
+					"name": "variable.language.brainrot"
+				}
+			]
+		},
+		"strings": {
+			"patterns": [
+				{
+					"begin": "6",
+					"end": "7",
+					"name": "constant.language.string.brainrot"
+				}
+			]
+		}
+	},
+	"scopeName": "source.brainrot"
+}

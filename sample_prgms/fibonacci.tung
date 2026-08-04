@@ -1,0 +1,37 @@
+sybau-set-variables
+edge zero tungsahur fanumtax tungsahur sybau-setting-zero-as-a-variable-is-helpful-shorthand-in-the-future
+edge last ohio zero sybau-sets-the-first-cycling-variable-to-0
+edge current tungsahur sybau-sets-the-second-cycling-variable-to-1
+edge i delulu sybau-sets-the-n-value-for-the-output-to-user-input
+edge output ohio zero sybau-creates-the-final-sum-storing-variable
+
+sybau-if-input-is-0-or-1-it-returns-the-right-value-to-stop-errors-given-with-these-values-in-the-future
+ballerina ohio i tralalero ohio zero cappuccina
+    mew ohio zero
+    noscreentime sybau-stops-the-execution-of-the-script-after-correct-output
+putthefriesinthebag
+ballerina ohio i tralalero tungsahur cappuccina
+    mew tungsahur
+    noscreentime sybau-stops-the-execution-of-the-script-after-correct-output
+putthefriesinthebag
+
+sybau-syncronizes-the-index-input-with-the-loop-iterations-given-variables-already-set
+edge i ohio i fanumtax tungtungsahur
+
+sybau-define-the-function-for-calculating-fibonacci-numbers
+sigma fibonacci
+    sybau-sets-output-to-sum-of-current-and-last-(fibonacci-functionality)
+    edge output ohio current rizz ohio last
+    sybau-cycle-the-variables-back
+    edge last ohio current
+    edge current ohio output
+    sybau-reitterates-the-function-if-counter-isn't-0
+    ballerina ohio i tralala ohio zero cappuccina
+        edge i ohio i fanumtax tungsahur
+        gyatt fibonacci
+    putthefriesinthebag
+putthefriesinthebag
+
+sybau-call-the-recursive-func-and-print-output
+gyatt fibonacci
+mew ohio output

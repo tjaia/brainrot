@@ -1,0 +1,34 @@
+{
+  "name": "brainrot",
+  "displayName": "BrainRot",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [
+      {
+        "id": "brainrot",
+        "aliases": [
+          "BrainRot",
+          "brainrot"
+        ],
+        "extensions": [
+          ".tung"
+        ],
+        "configuration": "./language-configuration.json"
+      }
+    ],
+    "grammars": [
+      {
+        "language": "brainrot",
+        "scopeName": "source.brainrot",
+        "path": "./syntaxes/brainrot.tmLanguage.json"
+      }
+    ]
+  }
+}
