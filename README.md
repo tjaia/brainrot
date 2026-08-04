@@ -4,6 +4,12 @@
 
 Copyright © 2026 Jake Hagler. All intellectual property in this project, including the Brainrot esolang and its components, is owned by Jake Hagler. You may use and modify this software for personal or internal purposes, but redistribution of any part of this project is strictly prohibited without prior written permission.
 
+## Usage
+* Use the command "brainrot <file>" in any directory with the portable executable
+* "brainrot -v" will print the software version to the terminal
+* "brainrot -h" will give the user assistance on using the language
+* "brainrot -p" (for developers) parses the language tokens and prints out them as JSON objects
+
 ## How to install vsformatting in Visual Studio Code
 
 1. Press `Ctrl+Shift+P`
