@@ -2,7 +2,7 @@
 
 ---
 
-Copyright © 2026 Jake Hagler. All intellectual property in this project, including the Brainrot esolang and its components, is owned by Jake Hagler. You may use and modify this software for personal or internal purposes, but redistribution of any part of this project is strictly prohibited without prior written permission.
+Copyright ©2026 Jake Hagler. All intellectual property in this project, including the Brainrot esolang and its components, is owned by Jake Hagler. You may use and modify this software for personal or internal purposes, but redistribution of any part of this project is strictly prohibited without prior written permission.
 
 ## Usage
 * Use the command "brainrot <file>" in any directory with the portable executable
